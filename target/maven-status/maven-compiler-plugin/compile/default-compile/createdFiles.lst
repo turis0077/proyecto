@@ -1,0 +1,7 @@
+com\univalle\pokemon\Operations.class
+com\univalle\pokemon\Pokemon.class
+com\univalle\pokemon\PokemonRepository.class
+com\univalle\pokemon\Utils.class
+com\univalle\pokemon\Main.class
+com\univalle\pokemon\PokemonFactory.class
+com\univalle\pokemon\UserCollection.class
